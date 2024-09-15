@@ -1,0 +1,2 @@
+# ObsSync
+Private Obsidian Sync
